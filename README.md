@@ -3,7 +3,8 @@ Welcome to my GitHub profile! 👋 I'm Anushka Gupts, a passionate BTech CSE 2nd
 🔧 Skills
 Programming Languages:  java , python , c++
 Frameworks and Technologies: 
-Tools: vscode , nodejs ,git , 
+Tools: vscode , nodejs ,git 
+
 🌱 Currently Learning
 I'm always eager to learn and explore new technologies. Currently, I'm diving into Javascript , Github and working on new opensource projects.
 
